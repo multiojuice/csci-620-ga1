@@ -1,0 +1,59 @@
+data: high school diploma sex
+all, male, female
+56022, 28257, 27765
+
+data: high school diploma age
+all, 25-34yrs old, 35-54yrs old, 55yrs older
+56022, 10661, 18232, 27129
+
+data: high school diploma race
+all, white, non-hispanic white, black, asian, other hispanic
+56022, 43575, 34682, 8474, 2251, 9902
+
+data: bachelor degree sex
+all, male, female
+52164, 24621, 27542
+
+data: bachelor degree age
+all, 25-34yrs old, 35-54yrs old, 55yrs older
+52164, 13166, 20092, 18906
+
+data: bachelor degree race
+all, white, non-hispanic white, black, asian, other hispanic
+52164, 41008, 36595, 4997, 4875, 5065
+
+data: master degree sex
+all, male, female
+23516, 10223, 13293
+
+data: master degree age
+all, 25-34yrs old, 35-54yrs old, 55yrs older
+23516, 4228, 9898, 9390
+
+data: master degree race
+all, white, non-hispanic white, black, asian, other hispanic
+23516, 18225, 16697, 2144, 2739, 1731
+
+data: professional degree sex
+all, male, female
+3362, 1957, 1405
+
+data: professional degree age
+all, 25-34yrs old, 35-54yrs old, 55yrs older
+3362, 528, 1333, 1501
+
+data: professional degree race
+all, white, non-hispanic white, black, asian, other hispanic
+3362, 2647, 2450, 277, 364, 269
+
+data: doctor degree sex
+all, male, female
+4659, 2624, 2034
+
+data: doctor degree age
+all, 25-34yrs old, 35-54yrs old, 55yrs older
+4659, 670, 1930, 2059
+
+data: doctor degree race
+all, white, non-hispanic white, black, asian, other hispanic
+4659, 3527, 3295, 328, 721, 270
