@@ -1,0 +1,48 @@
+pie: Ratio of Education level, over Sex
+M - College/Below incomplete, F - College/Below incomplete, M - Bachelor/Associate, F - Bachelor/Associate, M - Master, F - Master, M - Professional, F - Professional, M - Doctor, F - Doctor, M - HoghSchool, F - HighSchool
+29493, 30275, 34962, 40768, 10223, 13293, 1957, 1405, 2624, 2034, 28257, 27765
+
+bar: Quantity Trend of Education level, over Age
+HighSchool 25-34, HighSchool 35-54, HighSchool >=55, Bachelor 25-34, Bachelor 35-54, Bachelor >=55, Master 25-34, Master 35-54, Master >=55, Doctor 25-34, Doctor 35-54, Doctor >=55
+10661, 18232, 27129, 13166, 20092, 18906, 4228, 9898, 670, 1930, 2059
+
+bar: Ratio Comparison of HighSchool Incomplement, in Quantity over Race
+White, Non-Hispanic White, Black, Asian, Other Hispanic
+11.2, 7.4, 13.4, 8.9, 28.8
+
+bar: Ratio Comparison of above HighSchool Complement, in Quantity over Race
+White, Non-Hispanic White, Black, Asian, Other Hispanic
+48.5, 52.7, 38.0, 67.5, 29.8
+
+bar: Ratio Comparison of Bachelor/Associate Complement, in Quantity over Race
+White, Non-Hispanic White, Black, Asian, Other Hispanic
+34.5, 37.0, 28.1, 40.6, 23.3
+
+bar: Ratio Comparison of Master Complement, in Quantity over Race
+White, Non-Hispanic White, Black, Asian, Other Hispanic
+10.5, 11.7, 7.7, 19.2, 4.9
+
+
+bar: Ratio Comparison of Doctor Complement, in Quantity over Race
+White, Non-Hispanic White, Black, Asian, Other Hispanic
+2.0, 2.3, 1.2, 5.1, 0.8
+
+
+
+line: Quantity Trend of Education level above College with Diploma, over Age
+25-34, 35-54, >=55
+41430, 71786, 84058
+
+pie: Ratio of Education level Composition, over Asian
+HighSchool incomplete, HighSchool, College incomplete, Bachelor, Master, Professional, Doctor
+12870, 2251, 1998, 4875, 2739, 364, 721
+
+pie: Ratio of Education level Composition, over Black
+HighSchool incomplete, HighSchool, College incomplete, Bachelor, Master, Professional, Doctor
+3724, 8474, 7879, 4997, 2144, 277, 328
+
+pie: Ratio of Education level Composition, over White
+HighSchool incomplete, HighSchool, College incomplete, Bachelor, Master, Professional, Doctor
+19693, 43575, 45606, 41008, 18225, 2647, 3527
+
+end
