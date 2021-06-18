@@ -1,0 +1,17 @@
+analysis over table-3.xlsx
+
+Since the data on table-3 are more "general descriptive", making data that shows brief but in the meantime lack of involvement of statisitc conditions probabilities between any 2 groups.
+So the research method I used is aggregating sum up with single variable control policy, try to analyze the trends, differences that reflects between classes within any group.
+The groups I proposed during researching this table are:
+    "different ages over same education level", which could reflects how any level of education is propagated with time changes;
+    "different races over same education level", which could shows how equilibrium educational resources are distributed over differenct races;
+    "different education level over same race", which could shows the potential preference of education finishment of specific race, and might could further reflect the difference of concepts to education that race holds;
+
+Statistic indices involves in my researches are population quantity (number) as well as percentage quantity (ratio over such entire group);
+Comparison between different races are done by the percentage that group holds over entire race population, due to the difference of population between races;
+Comparison of different education levels over same race or different gender on the other hand, is done by quantity but visualized by pie chart, which I believe could better shows the contrast;
+
+From the pie chart of education levels over sex, I put both sex into one pie chart population, which I believe could not onyl shows the education levels complement, but also shows how eahc groups weights within the entire population. For this chart, I did not put levels higher than master into entire population for better visualization, but ideas are conveied clear enough I aassume, that both sex had gained a nearly equal chance or resources on education.
+From the bar chart of education complement trends over age (time), we could see the propagation of education is getting better, if we hold the LifeExpectancy to 78.7 years old according to CNN's information, and apply the ratio-computation between age differencex and education population;
+From Bar chart of same education levels complement over different races' percentage, such comparison could shows the difference in education resources inclinment, or concept differences of each race;
+From the last 3 pie chart of differenct education levels over same race population, a clear visualization could be gained about discussion of majority of different races' choices of "ending level of degree education";
